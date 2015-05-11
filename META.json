@@ -1,5 +1,5 @@
 {
-   "abstract" : "Module based on DBIx::Simple with Named parameters",
+   "abstract" : "Module based on DBIx::Simple with Named and Numbered parameters",
    "author" : [
       "This library is free software; you can redistribute it and/or modify"
    ],
@@ -54,18 +54,7 @@
       }
    },
    "release_status" : "unstable",
-   "resources" : {
-      "bugtracker" : {
-         "web" : "https://github.com/andr213/DBIx-Simple-Named/issues"
-      },
-      "homepage" : "https://github.com/andr213/DBIx-Simple-Named",
-      "repository" : {
-         "type" : "git",
-         "url" : "git://github.com/andr213/DBIx-Simple-Named.git",
-         "web" : "https://github.com/andr213/DBIx-Simple-Named"
-      }
-   },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "andr213 <andr213@gmail.com>"
    ]

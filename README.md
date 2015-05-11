@@ -1,6 +1,6 @@
 # NAME
 
-DBIx::Simple::Named - Module based on DBIx::Simple with Named parameters
+DBIx::Simple::Named - Module based on DBIx::Simple with Named and Numbered parameters
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ DBIx::Simple::Named - Module based on DBIx::Simple with Named parameters
 
 # DESCRIPTION
 
-DBIx::Simple::Named is module based on DBIx::Simple with Named parameters
+DBIx::Simple::Named is module based on DBIx::Simple with Named and Numbered parameters
 
 # LICENSE
 
