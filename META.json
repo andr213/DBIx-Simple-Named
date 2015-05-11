@@ -54,8 +54,9 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.05",
+   "version" : "0.06",
    "x_contributors" : [
+      "andr213 <andr213@users.noreply.github.com>",
       "andr213 <andr213@gmail.com>"
    ]
 }
