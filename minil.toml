@@ -1,0 +1,4 @@
+name = "DBIx-Simple-Named"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
