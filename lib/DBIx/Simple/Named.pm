@@ -84,7 +84,7 @@ __END__
 
 =head1 NAME
 
-DBIx::Simple::Named - Module based on DBIx::Simple with Named parameters
+DBIx::Simple::Named - Module based on DBIx::Simple with Named and Numbered parameters
 
 =head1 SYNOPSIS
 
@@ -92,7 +92,7 @@ DBIx::Simple::Named - Module based on DBIx::Simple with Named parameters
 
 =head1 DESCRIPTION
 
-DBIx::Simple::Named is module based on DBIx::Simple with Named parameters
+DBIx::Simple::Named is module based on DBIx::Simple with Named and Numbered parameters
 
 =head1 LICENSE
 
