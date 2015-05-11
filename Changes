@@ -2,7 +2,13 @@ Revision history for Perl extension DBIx-Simple-Named
 
 {{$NEXT}}
 
+0.04 2015-05-11T07:04:08Z
+    - POD changed
+
 0.01 2015-05-11T06:53:01Z
 
     - original version
+    
+
+
 
