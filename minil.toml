@@ -2,3 +2,7 @@ name = "DBIx-Simple-Named"
 # badges = ["travis"]
 module_maker="ModuleBuildTiny"
 
+readme_from = "lib/DBIx/Simple/Named.pm"
+
+[release]
+do_not_upload_to_cpan=true

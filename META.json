@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Module based on DBIx::Simple with Named parameters",
    "author" : [
       "This library is free software; you can redistribute it and/or modify"
    ],
@@ -42,6 +42,8 @@
       },
       "runtime" : {
          "requires" : {
+            "DBIx::Simple" : "0",
+            "SQL::Tokenizer" : "0",
             "perl" : "5.008001"
          }
       },
@@ -52,5 +54,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/andr213/DBIx-Simple-Named/issues"
+      },
+      "homepage" : "https://github.com/andr213/DBIx-Simple-Named",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/andr213/DBIx-Simple-Named.git",
+         "web" : "https://github.com/andr213/DBIx-Simple-Named"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "andr213 <andr213@gmail.com>"
+   ]
 }

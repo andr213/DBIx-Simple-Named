@@ -1,6 +1,6 @@
 # NAME
 
-DBIx::Simple::Named - It's new $module
+DBIx::Simple::Named - Module based on DBIx::Simple with Named parameters
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ DBIx::Simple::Named - It's new $module
 
 # DESCRIPTION
 
-DBIx::Simple::Named is ...
+DBIx::Simple::Named is module based on DBIx::Simple with Named parameters
 
 # LICENSE
 
