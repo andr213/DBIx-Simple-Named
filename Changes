@@ -1,22 +1,6 @@
-Revision history for Perl extension DBIx-Simple-Named
+Revision history for Perl module DBIx::Simple::Named
 
-{{$NEXT}}
-
-0.06 2015-05-11T08:17:50Z
-    - NEW
-
-0.05 2015-05-11T08:09:59Z
-    - POD CHANGED NEW
-
-0.04 2015-05-11T07:15:02Z
-    - POD changed
-0.04 2015-05-11T07:04:08Z
-    - POD changed
-
-0.01 2015-05-11T06:53:01Z
-
-    - original version
-    
-
+0.01 Tue May 12 11:38:21 2015
+    - original version; created by ExtUtils::ModuleMaker 0.54
 
 
